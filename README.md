@@ -1,1 +1,1 @@
-bye bye microsoft. please visit https://git.osuv.de/m/markuman/heroku_test
+bye bye microsoft. please visit https://git.osuv.de/m/heroku_test
